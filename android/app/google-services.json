@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683356179012",
+    "project_id": "fit-streaks-0133",
+    "storage_bucket": "fit-streaks-0133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683356179012:android:d60aae8c794eb31a7c0a11",
+        "android_client_info": {
+          "package_name": "com.example.fitstreaks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2kG3ZGdTYQX4HI6p6kG7dbUEeMeRo0kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

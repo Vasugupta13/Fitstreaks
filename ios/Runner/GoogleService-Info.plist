@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAoO-2wYR4E4haLQmtzt5ehoBcGXT7gSu4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>683356179012</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fitstreaks</string>
+	<key>PROJECT_ID</key>
+	<string>fit-streaks-0133</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fit-streaks-0133.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:683356179012:ios:2c1c49ff5a15dd317c0a11</string>
+</dict>
+</plist>
